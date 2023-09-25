@@ -1480,7 +1480,7 @@ data['AM or PM'].value_counts()
 
 
 
-### 15) Finding out the number of people hose credit card expires in 2020
+### 15) Finding out the number of people whose credit card expires in 2020
 
 
 ```python
